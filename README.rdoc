@@ -2,12 +2,12 @@
 
 == Blog
 
-Um blog simples para aplicar meus conhecimentos em Ruby on Rails
+     Um blog simples para aplicar meus conhecimentos em Ruby on Rails
 
 
 
 
-Thanks!
+Obrigado!
 
 Neno Almeida.
 
