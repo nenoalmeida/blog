@@ -1,0 +1,17 @@
+{<img src="https://travis-ci.org/nenoalmeida/blog.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/nenoalmeida/blog]
+
+== Blog
+
+Um blog simples para aplicar meus conhecimentos em Ruby on Rails
+
+
+
+
+Thanks!
+
+Neno Almeida.
+
+(https://twitter.com/neniisky)
+(https://br.linkedin.com/in/nenoalmeida)
+(https://medium.com/@nenoalmeida)
+
